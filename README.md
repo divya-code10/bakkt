@@ -1,4 +1,4 @@
-# EncoderDecoder
+## EncoderDecoder
 1) Generate RSA key pair and shards the private key into k of n shares
 using Shamir secret sharing algorithm. 
 2) The app should be able to re-create the private key if 2
@@ -6,14 +6,7 @@ of n shares are presented.
 3) The program should write the public key to a text file called Public.TXT, and the private key shards to text files called Shard[k].TXT.
 
 
-
-## Architecture
-
-
-
-
-# BUILD INSTRUCTIONS
-
+## BUILD INSTRUCTIONS
 1)Install jdk 11
 2) Install maven
 3) From parent directory  run  "mvn clean dependency:copy-dependencies package"
