@@ -7,7 +7,7 @@ of n shares are presented.
 
 
 ## BUILD INSTRUCTIONS
-1)Install jdk 11
+1) Install jdk 11
 2) Install maven
 3) From parent directory  run  "mvn clean dependency:copy-dependencies package"
 4) You can run test using "mvn test"
