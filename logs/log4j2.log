@@ -1,0 +1,175 @@
+21:14:09.883 [main] INFO  - Public private key generation start
+21:14:10.253 [main] INFO  - Public private key generation end
+21:14:10.264 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Public.TXT
+21:14:10.273 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[2].TXT
+21:14:10.273 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[3].TXT
+21:14:10.274 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[4].TXT
+21:14:10.274 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[5].TXT
+21:14:52.901 [main] INFO  - Public private key generation start
+21:14:53.378 [main] INFO  - Public private key generation end
+21:14:53.382 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Public.TXT
+21:14:53.388 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[2].TXT
+21:14:53.388 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[3].TXT
+21:14:53.388 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[4].TXT
+21:14:53.389 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[5].TXT
+21:15:49.198 [main] INFO  - Public private key generation start
+21:15:49.532 [main] INFO  - Public private key generation end
+21:15:49.535 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Public.TXT
+21:15:49.540 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[1].TXT
+21:15:49.540 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[2].TXT
+21:15:49.541 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[3].TXT
+21:15:49.541 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[4].TXT
+21:15:49.541 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[5].TXT
+21:15:49.541 [main] INFO  - Encryption started using public file for input: test
+21:15:49.574 [main] INFO  - Encryption completed for input: test
+21:15:49.574 [main] INFO  - Decryption started using private file
+21:15:49.579 [main] INFO  - Private key recovered using shards: [2, 5]
+21:15:49.588 [main] INFO  - Decryption completed
+21:16:06.849 [main] INFO  - Public private key generation start
+21:16:07.428 [main] INFO  - Public private key generation end
+21:16:07.432 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Public.TXT
+21:16:07.436 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[1].TXT
+21:16:07.436 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[2].TXT
+21:16:07.437 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[3].TXT
+21:16:07.437 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[4].TXT
+21:16:07.437 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[5].TXT
+21:16:07.438 [main] INFO  - Encryption started using public file for input: test
+21:16:07.469 [main] INFO  - Encryption completed for input: test
+21:16:07.470 [main] INFO  - Decryption started using private file
+21:16:07.478 [main] INFO  - Private key recovered using shards: [2, 5]
+21:16:07.486 [main] INFO  - Decryption completed
+21:16:35.352 [main] INFO  - Public private key generation start
+21:16:35.633 [main] INFO  - Public private key generation end
+21:16:35.639 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Public.TXT
+21:16:35.646 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[1].TXT
+21:16:35.646 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[2].TXT
+21:16:35.646 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[3].TXT
+21:16:35.647 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[4].TXT
+21:16:35.647 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[5].TXT
+21:16:35.648 [main] INFO  - Encryption started using public file for input: test
+21:16:35.705 [main] INFO  - Encryption completed for input: test
+21:16:35.706 [main] INFO  - Decryption started using private file
+21:16:35.723 [main] INFO  - Private key recovered using shards: [2, 5]
+21:16:35.730 [main] INFO  - Decryption completed
+21:21:01.548 [main] INFO  - Public private key generation start
+21:21:02.016 [main] INFO  - Public private key generation end
+21:21:02.021 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Public.TXT
+21:21:02.026 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[1].TXT
+21:21:02.026 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[2].TXT
+21:21:02.026 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[3].TXT
+21:21:02.027 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[4].TXT
+21:21:02.027 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[5].TXT
+21:21:02.028 [main] INFO  - Encryption started using public file for input: test
+21:21:02.069 [main] INFO  - Encryption completed for input: test
+21:21:02.069 [main] INFO  - Decryption started using private file
+21:21:02.076 [main] INFO  - Private key recovered using shards: [2, 5]
+21:21:02.081 [main] INFO  - Decryption completed
+08:47:26.735 [main] INFO  - Public private key generation start
+08:47:27.039 [main] INFO  - Public private key generation end
+08:47:27.048 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Public.TXT
+08:47:27.055 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[1].TXT
+08:47:27.056 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[2].TXT
+08:47:27.056 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[3].TXT
+08:47:27.056 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[4].TXT
+08:47:27.057 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[5].TXT
+08:47:27.057 [main] INFO  - Encryption started using public file for input: test
+08:47:27.097 [main] INFO  - Encryption completed for input: test
+08:47:27.100 [main] INFO  - Decryption started using private file
+08:47:27.112 [main] INFO  - Private key recovered using shards: [1, 5]
+08:47:27.120 [main] INFO  - Decryption completed
+09:04:38.043 [main] INFO  - Public private key generation start
+09:04:38.575 [main] INFO  - Public private key generation end
+09:04:38.617 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Public.TXT
+09:04:38.620 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[1].TXT
+09:04:38.621 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[2].TXT
+09:04:38.622 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[3].TXT
+09:04:38.623 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[4].TXT
+09:04:38.624 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[5].TXT
+09:04:38.624 [main] INFO  - Encryption started using public file for input: test
+09:07:03.776 [main] INFO  - Public private key generation start
+09:07:04.309 [main] INFO  - Public private key generation end
+09:07:04.374 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Public.TXT
+09:07:04.377 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[1].TXT
+09:07:04.378 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[2].TXT
+09:07:04.379 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[3].TXT
+09:07:04.380 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[4].TXT
+09:07:04.381 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[5].TXT
+09:07:04.381 [main] INFO  - Encryption started using public file for input: test
+09:07:04.385 [main] INFO  - Encryption completed for input: test
+09:07:04.385 [main] INFO  - Decryption started using private file
+09:12:56.438 [main] INFO  - Public private key generation start
+09:12:56.790 [main] INFO  - Public private key generation end
+09:12:56.831 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Public.TXT
+09:12:56.834 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[1].TXT
+09:12:56.835 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[2].TXT
+09:12:56.836 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[3].TXT
+09:12:56.836 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[4].TXT
+09:12:56.837 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[5].TXT
+09:12:56.837 [main] INFO  - Encryption started using public file for input: test
+09:12:56.839 [main] INFO  - Encryption completed for input: test
+09:12:56.840 [main] INFO  - Decryption started using private file
+09:15:59.687 [main] INFO  - Public private key generation start
+09:16:00.058 [main] INFO  - Public private key generation end
+09:16:00.065 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Public.TXT
+09:16:00.072 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[1].TXT
+09:16:00.072 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[2].TXT
+09:16:00.073 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[3].TXT
+09:16:00.074 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[4].TXT
+09:16:00.074 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[5].TXT
+09:16:00.074 [main] INFO  - Encryption started using public file for input: test
+09:16:00.110 [main] INFO  - Encryption completed for input: test
+09:16:00.110 [main] INFO  - Decryption started using private file
+09:16:00.116 [main] INFO  - Private key recovered using shards: [1, 5]
+09:16:00.121 [main] INFO  - Decryption completed
+09:39:11.787 [main] INFO  - Public private key generation start
+09:39:12.200 [main] INFO  - Public private key generation end
+09:39:12.204 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Public.TXT
+09:39:12.208 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[1].TXT
+09:39:12.209 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[2].TXT
+09:39:12.209 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[3].TXT
+09:39:12.209 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[4].TXT
+09:39:12.210 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[5].TXT
+09:39:12.210 [main] INFO  - Encryption started using public file for input: test
+09:39:12.258 [main] INFO  - Encryption completed for input: test
+09:39:12.259 [main] INFO  - Decryption started using private file
+09:39:12.268 [main] INFO  - Private key recovered using shards: [2, 5]
+09:39:12.273 [main] INFO  - Decryption completed
+09:39:53.735 [main] INFO  - Public private key generation start
+09:39:54.156 [main] INFO  - Public private key generation end
+09:39:54.160 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Public.TXT
+09:39:54.165 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[1].TXT
+09:39:54.166 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[2].TXT
+09:39:54.166 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[3].TXT
+09:39:54.167 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[4].TXT
+09:39:54.168 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/encode/keys/Shard[5].TXT
+09:39:54.168 [main] INFO  - Encryption started using public file for input: test
+09:39:54.208 [main] INFO  - Encryption completed for input: test
+09:39:54.209 [main] INFO  - Decryption started using private file
+09:39:54.217 [main] INFO  - Private key recovered using shards: [2, 5]
+09:39:54.222 [main] INFO  - Decryption completed
+10:00:42.705 [main] INFO  - Public private key generation start
+10:00:43.286 [main] INFO  - Public private key generation end
+10:00:43.292 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/keys/Public.TXT
+10:00:43.298 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/keys/Shard[1].TXT
+10:00:43.298 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/keys/Shard[2].TXT
+10:00:43.299 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/keys/Shard[3].TXT
+10:00:43.300 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/keys/Shard[4].TXT
+10:00:43.300 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/keys/Shard[5].TXT
+10:00:43.301 [main] INFO  - Encryption started using public file for input: test
+10:00:43.351 [main] INFO  - Encryption completed for input: test
+10:00:43.352 [main] INFO  - Decryption started using private file
+10:00:43.363 [main] INFO  - Private key recovered using shards: [2, 5]
+10:00:43.382 [main] INFO  - Decryption completed
+10:01:02.720 [main] INFO  - Public private key generation start
+10:01:03.368 [main] INFO  - Public private key generation end
+10:01:03.373 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/keys/Public.TXT
+10:01:03.380 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/keys/Shard[1].TXT
+10:01:03.380 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/keys/Shard[2].TXT
+10:01:03.381 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/keys/Shard[3].TXT
+10:01:03.381 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/keys/Shard[4].TXT
+10:01:03.382 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/keys/Shard[5].TXT
+10:01:03.383 [main] INFO  - Encryption started using public file for input: test
+10:01:03.428 [main] INFO  - Encryption completed for input: test
+10:01:03.429 [main] INFO  - Decryption started using private file
+10:01:03.441 [main] INFO  - Private key recovered using shards: [2, 5]
+10:01:03.452 [main] INFO  - Decryption completed

@@ -1,0 +1,13 @@
+10:01:32.195 [main] INFO  - Public private key generation start
+10:01:32.505 [main] INFO  - Public private key generation end
+10:01:32.512 [main] INFO  - Public  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/target/keys/Public.TXT
+10:01:32.518 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/target/keys/Shard[1].TXT
+10:01:32.518 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/target/keys/Shard[2].TXT
+10:01:32.519 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/target/keys/Shard[3].TXT
+10:01:32.519 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/target/keys/Shard[4].TXT
+10:01:32.519 [main] INFO  - Private  key witten to /Users/kaush/workspace/divya/RSACrypto/bakkt/target/keys/Shard[5].TXT
+10:01:32.520 [main] INFO  - Encryption started using public file for input: tester
+10:01:32.556 [main] INFO  - Encryption completed for input: tester
+10:01:32.556 [main] INFO  - Decryption started using private file
+10:01:32.570 [main] INFO  - Private key recovered using shards: [1, 5]
+10:01:32.575 [main] INFO  - Decryption completed
