@@ -8,7 +8,7 @@ import javax.crypto.spec.SecretKeySpec;
 
 public class KeyEncoder {
 	
-	String key = "s3cr3t";
+	String key = "secret";
 	private final byte[] ivBytes = new byte[] { 32, 87, -14, 25, 78, -104, 98, 40 };
 ;
 	public byte[] encrypt(byte[] originalData) {
